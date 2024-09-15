@@ -43,7 +43,3 @@ You can build the program using any C++ compiler. The code is written in standar
 - This implementation supports inserting unique integer keys. Insertion of a duplicate key is ignored.
 - Deletion redistributes keys between siblings or merges nodes when necessary, keeping the tree balanced.
 - The tree dynamically adjusts its structure by promoting keys to the parent node upon node splits.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
